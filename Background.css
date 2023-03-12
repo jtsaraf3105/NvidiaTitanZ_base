@@ -1,0 +1,15 @@
+body {
+    background-image: url("no1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.button {
+    background-colour: #9ACD32;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 15px  32px
+    font-type: Geforce;
+    font-size: 16px
+}
