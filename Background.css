@@ -5,7 +5,13 @@
     font-style: normal;
 }
 
+html {
+    background-color: #222222;
+    overscroll-behavior-y: none;
+}
+
 body {
+    margin: 0;
     background-color: #222222;
     background-image: url('./no1.jpg');
     background-repeat: no-repeat;
